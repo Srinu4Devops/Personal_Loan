@@ -64,10 +64,4 @@
       </plugins>
     </pluginManagement>
   </build>
-<distributionManagement>
-   <snapshotRepository>
-      <id>Weekend-Snaphot</id>
-      <url>http://localhost:8081/repository/Weekend-Snaphot/</url>
-   </snapshotRepository>
-</distributionManagement>
 </project>
